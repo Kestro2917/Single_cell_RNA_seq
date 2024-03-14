@@ -1,6 +1,7 @@
 # Dataset considered for thia analysis (20k Mixture of NSCLC DTCs from 7 donors, 3' v3.1 (without intronic reads))
 # Dataset link (https://www.10xgenomics.com/datasets/20-k-mixture-of-nsclc-dt-cs-from-7-donors-3-v-3-1-3-1-standard-6-1-0)
 # Count matrix file considered for this analysis (Gene Expression - Feature / cell matrix HDF5 (raw))
+# Source "Bioinformagician" YouTube Channel 
 
 # load libraries
 library(Seurat)
